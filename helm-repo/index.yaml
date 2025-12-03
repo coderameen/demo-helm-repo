@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  payments:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-12-03T22:20:45.051511+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 0c3b5b1a4dda31f702cbac66ba9bc8af8f7b5d11b916c7d07f066010749fe781
+    name: payments
+    type: application
+    urls:
+    - payments-0.1.0.tgz
+    version: 0.1.0
+  shipping:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-12-03T22:20:45.05178+03:00"
+    description: A Helm chart for Kubernetes
+    digest: f4feb3f70314f1fd8b12230f1ddd133a3d504b4a8cf7889a0f51d3e794911972
+    name: shipping
+    type: application
+    urls:
+    - shipping-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-12-03T22:20:45.050842+03:00"
